@@ -1,0 +1,41 @@
+h1,h2,h3{
+    text-align:center;
+}
+  .aut{
+    text-align:center;
+}
+.tekst{
+    text-align:center;
+}
+img{
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20%;
+}
+#wierszyk{
+    text-align:left;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-collapse: collapse;
+    width: 30%;
+    border: 1px solid;
+   }
+th {
+    background-color: #f2f2f2;
+}
+td a:hover {
+    text-decoration: underline;
+    background-color: green;
+}
+td a:active {
+  box-shadow: 2px 4px 5px red;
+
+}
+td a:visited {
+  color: #555;
+}
